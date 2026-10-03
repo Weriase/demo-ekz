@@ -1,2 +1,4 @@
 # demo-ekz
-demo ekzamen practice Shimrov N,R, Uhanova S.A
+demo ekzamen practice|
+Members | Shimrov N,R, Uhanova S.A
+Stack | C#, MySQL
